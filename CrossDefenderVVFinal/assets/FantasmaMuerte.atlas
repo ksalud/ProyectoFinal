@@ -1,0 +1,90 @@
+
+FantasmaMuerte.png
+size: 2048, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Muerte1
+  rotate: false
+  xy: 0, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte2
+  rotate: false
+  xy: 126, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte3
+  rotate: false
+  xy: 252, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte4
+  rotate: false
+  xy: 378, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte5
+  rotate: false
+  xy: 504, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte6
+  rotate: false
+  xy: 630, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte7
+  rotate: false
+  xy: 756, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte8
+  rotate: false
+  xy: 882, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Muerte9
+  rotate: false
+  xy: 1008, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+MuerteA10
+  rotate: false
+  xy: 1134, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+MuerteA11
+  rotate: false
+  xy: 1260, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+MuerteA12
+  rotate: false
+  xy: 1386, 0
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1

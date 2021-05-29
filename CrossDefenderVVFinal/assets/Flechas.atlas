@@ -1,0 +1,27 @@
+
+Flechas.png
+size: 512, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Flecha1
+  rotate: false
+  xy: 0, 0
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Flecha2
+  rotate: false
+  xy: 256, 0
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Flecha3
+  rotate: false
+  xy: 128, 0
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Enemigo1.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attack
+  rotate: false
+  xy: 2, 162
+  size: 126, 312
+  orig: 126, 312
+  offset: 0, 0
+  index: -1
+charge
+  rotate: false
+  xy: 2, 4
+  size: 126, 156
+  orig: 126, 156
+  offset: 0, 0
+  index: -1
+death
+  rotate: false
+  xy: 258, 279
+  size: 126, 195
+  orig: 126, 195
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 130, 82
+  size: 126, 78
+  orig: 126, 78
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 258, 82
+  size: 126, 195
+  orig: 126, 195
+  offset: 0, 0
+  index: -1
+run
+  rotate: false
+  xy: 130, 162
+  size: 126, 312
+  orig: 126, 312
+  offset: 0, 0
+  index: -1
+transition to charge
+  rotate: false
+  xy: 130, 2
+  size: 126, 78
+  orig: 126, 78
+  offset: 0, 0
+  index: -1

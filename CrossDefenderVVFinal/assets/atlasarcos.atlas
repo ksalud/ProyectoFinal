@@ -1,0 +1,48 @@
+
+atlasarcos.png
+size: 256, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 314
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 116, 158
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+2evo
+  rotate: false
+  xy: 116, 2
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 158
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+3evo
+  rotate: false
+  xy: 2, 2
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+3evoevo
+  rotate: false
+  xy: 116, 314
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
